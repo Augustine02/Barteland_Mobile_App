@@ -1,6 +1,6 @@
 # barterland_app
 
-The Barterland Application.
+ Barterland Mobile Application.
 
 ## Project structure is feature based
 
